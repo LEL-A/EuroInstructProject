@@ -1,5 +1,10 @@
 # 🇪🇺 💬 EuroInstructProject
-This project generates instruction datasets from existing German, English and other European datasets.
+This project generates instruction datasets from existing German,
+English and other European open source datasets.
+
+Through fine-tuning this should then help to add instruction-following capabilities
+to GPT models. To learn more about it please see our
+[documentation page](https://github.com/LEL-A/doc).
 
 ## InstructGermanDPR Dataset v1
 This dataset is derived from the [GermanDPR](https://www.deepset.ai/germanquad)
