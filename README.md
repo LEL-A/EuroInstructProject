@@ -19,6 +19,7 @@ then this is also communicated in the output.
 The number of positive responses and the number of negative responses are exactly balanced.
 The column `uuid` contains a uuid generated with `uuid.uuid4()`.
 
+- `InstructGermanDPR_v1.ipynb`: script to generate this dataset
 - `instruct_data/InstructGermanDPR_v1_train.csv`: 18,541 train pairs of input and output
 - `instruct_data/InstructGermanDPR_v1_test.csv`: 2,050 test pairs of input and output
 
