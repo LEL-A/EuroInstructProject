@@ -1,4 +1,4 @@
-# EuroInstructProject
+# 🇪🇺 EuroInstructProject
 
 ## Datasets Licensing
 The code and documentation of this project are under MIT license.
@@ -14,7 +14,7 @@ With the help of `InstructGermanDPR_v1.ipynb` changes were made.
 Please also see the arXiv paper:
 [GermanQuAD and GermanDPR: Improving Non-English Question Answering and Passage Retrieval](https://arxiv.org/abs/2104.12741)
 
-## Licensing (code and documentation)
+## Licensing (Code and Documentation)
 Copyright (c) 2023 by the LEL-A team
 
 Licensed under the **MIT License** (the "License"); you may not use this file except in compliance with the License.
