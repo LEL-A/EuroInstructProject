@@ -33,7 +33,7 @@ The code and documentation of this project are under MIT license.
 The licenses of the datasets are stated below.
 
 ### InstructGermanDPR
-This dataset is licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+`InstructGermanDPR` is licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 It is derived from the [GermanDPR](https://www.deepset.ai/germanquad)
 dataset from [deepset.ai](https://www.deepset.ai/).
 Many thanks to you!
