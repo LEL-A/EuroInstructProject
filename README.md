@@ -28,7 +28,7 @@ The column `uuid` contains a uuid generated with `uuid.uuid4()`.
 - `instruct_data/InstructGermanDPR_v1_train.csv`: 18,541 train pairs of input and output
 - `instruct_data/InstructGermanDPR_v1_test.csv`: 2,050 test pairs of input and output
 
-## Datasets Licensing
+## Licensing (Datasets)
 The code and documentation of this project are under MIT license.
 The licenses of the datasets are stated below.
 
