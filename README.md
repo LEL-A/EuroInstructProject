@@ -1,4 +1,4 @@
-# 🇪🇺 EuroInstructProject
+# 🇪🇺 💬 EuroInstructProject
 This project generates instruction datasets from existing German, English and other European datasets.
 
 ## InstructGermanDPR Dataset v1
