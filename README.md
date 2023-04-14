@@ -30,13 +30,13 @@ The column `uuid` contains a uuid generated with `uuid.uuid4()`.
 
 ## Instruct OPUS Tatoeba v1 (English and German)
 This dataset is derived from the [Tatoeba v2022-03-03](https://opus.nlpl.eu/Tatoeba-v2022-03-03.php)
-dataset. The prompt asks to translate a text.
+dataset. The prompt asks to provide a translation.
 
 The record has five columns: `input`, `output`, `src_lang`, `target_lang` and `uuid`
 
 The `input` of the record provides a German or English text and asks in German or English
 text to translate it.
-The `output` contains exactly and only the translated text.
+The `output` contains exactly (and only) the translated text.
 `src_lang` and `target_lang` contains the language from which is translated into the other.
 The column `uuid` contains a uuid generated with `uuid.uuid4()`.
 
