@@ -28,6 +28,12 @@ The column `uuid` contains a uuid generated with `uuid.uuid4()`.
 - `instruct_data/InstructGermanDPR_v1_train.csv`: 18,541 train pairs of input and output
 - `instruct_data/InstructGermanDPR_v1_test.csv`: 2,050 test pairs of input and output
 
+The dataset can be loaded with:
+```python
+df_train = pd.read_csv("./instruct_data/InstructGermanDPR_v1_train.csv")
+df_train = pd.read_csv("./instruct_data/InstructGermanDPR_v1_test.csv")
+```
+
 ## Instruct OPUS Tatoeba v1 (English and German)
 This dataset is derived from the [Tatoeba v2022-03-03](https://opus.nlpl.eu/Tatoeba-v2022-03-03.php)
 dataset. The prompt asks to provide a translation.
@@ -42,6 +48,11 @@ The column `uuid` contains a uuid generated with `uuid.uuid4()`.
 
 - `Instruct_OPUS_Tatoeba_v1.ipynb`: script to generate this dataset
 - `Instruct_OPUS_Tatoeba_v2022_03_03_de_en_v1.csv.gz`: 626,254 pairs of input and output
+
+The dataset can be loaded with:
+```python
+df = pd.read_csv("./instruct_data/Instruct_OPUS_Tatoeba_v2022_03_03_de_en_v1.csv.gz")
+```
 
 ## Licensing (Datasets)
 The code and documentation of this project are under MIT license.
